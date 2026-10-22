@@ -113,14 +113,14 @@ CGPA: 7.67
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MATHAN190&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHAN190&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MATHAN190&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+</p> -->
 
 ## 🤝 Connect With Me
 
